@@ -4,9 +4,9 @@ Create a fuzzy TSK model to classify samples of multivariable, nonlinear functio
 
 Datasets used:
 
-     * Dataset 1: Haberman's Survival Dataset
+    Dataset 1: Haberman's Survival Dataset
 
-     * Dataset 2: Epileptic Seizure Recognition Dataset
+     Dataset 2: Epileptic Seizure Recognition Dataset
 
 This is an experimental application developed as part of the course "Fuzzy Systems" assignment, that took place in the Department of Electrical & Computer Engineering at Aristotle University of Thessaloniki in 2020.
 
